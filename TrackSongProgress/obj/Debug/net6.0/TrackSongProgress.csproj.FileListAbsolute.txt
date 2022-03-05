@@ -1,0 +1,15 @@
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\bin\Debug\net6.0\TrackSongProgress.exe
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\bin\Debug\net6.0\TrackSongProgress.deps.json
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\bin\Debug\net6.0\TrackSongProgress.runtimeconfig.json
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\bin\Debug\net6.0\TrackSongProgress.dll
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\bin\Debug\net6.0\ref\TrackSongProgress.dll
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\bin\Debug\net6.0\TrackSongProgress.pdb
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\obj\Debug\net6.0\TrackSongProgress.csproj.AssemblyReference.cache
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\obj\Debug\net6.0\TrackSongProgress.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\obj\Debug\net6.0\TrackSongProgress.AssemblyInfoInputs.cache
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\obj\Debug\net6.0\TrackSongProgress.AssemblyInfo.cs
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\obj\Debug\net6.0\TrackSongProgress.csproj.CoreCompileInputs.cache
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\obj\Debug\net6.0\TrackSongProgress.dll
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\obj\Debug\net6.0\ref\TrackSongProgress.dll
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\obj\Debug\net6.0\TrackSongProgress.pdb
+E:\Code Louisville\TrackSongProgress\TrackSongProgress\TrackSongProgress\obj\Debug\net6.0\TrackSongProgress.genruntimeconfig.cache

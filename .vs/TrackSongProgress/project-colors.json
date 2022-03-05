@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b510d82-7a49-48f3-a140-b5aba7a1c0ab": {
+      "ProjectGuid": "2b510d82-7a49-48f3-a140-b5aba7a1c0ab",
+      "DisplayName": "TrackSongProgress",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
