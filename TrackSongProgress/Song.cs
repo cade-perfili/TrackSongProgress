@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace TrackSongProgress
 {
-    internal class Class1
+    public class Song
     {
+        public string? Name { get; set; }
+        public int? BPM { get; set; }
     }
 }
