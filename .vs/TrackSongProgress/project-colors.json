@@ -5,7 +5,17 @@
       "ProjectGuid": "2b510d82-7a49-48f3-a140-b5aba7a1c0ab",
       "DisplayName": "TrackSongProgress",
       "ColorIndex": 0
+    },
+    "f253a224-d039-473e-8953-697f281c1b63": {
+      "ProjectGuid": "f253a224-d039-473e-8953-697f281c1b63",
+      "DisplayName": "Repositories",
+      "ColorIndex": 1
+    },
+    "d4d0e788-1c00-4bdf-a6a9-906a73910ad6": {
+      "ProjectGuid": "d4d0e788-1c00-4bdf-a6a9-906a73910ad6",
+      "DisplayName": "Data",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }

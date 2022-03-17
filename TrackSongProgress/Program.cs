@@ -20,10 +20,12 @@
 
                 Console.WriteLine("Please enter the song name, press 1 to return to main menu");
                 NewSong = Console.ReadLine();
-            Console.WriteLine($"{NewSong}, Has been entered, thank you!");
-            if (NewSong == "1"){
+            if (NewSong == "1")
+            {
                 return;
             }
+            Console.WriteLine($"{NewSong}, Has been entered, thank you!");
+        
             goto case "3";
 
             break;

@@ -7,7 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrackSongProgress", "TrackS
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{F253A224-D039-473E-8953-697F281C1B63}"
 	ProjectSection(SolutionItems) = preProject
-		Class2.cs = Class2.cs
+		ListRepository.cs = ListRepository.cs
+		SqlRepository.cs = SqlRepository.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{D4D0E788-1C00-4BDF-A6A9-906A73910AD6}"
+	ProjectSection(SolutionItems) = preProject
+		StorageAppDbContext.cs = StorageAppDbContext.cs
 	EndProjectSection
 EndProject
 Global
