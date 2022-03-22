@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using TracksongProgress.Entities;
 
-namespace TrackSongProgress
+namespace TrackSongProgress.StorageApp.Data
 {
-    class StorageAppDbContext
+    class StorageAppDbContext : DbContext
 }

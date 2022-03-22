@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "t7IZ/jjrEbMaQfDTW+gqsV+9MVushWc5kbVwD2LTUY9mg/xByQKlXP1M6989nElmtpgwXrF6jckwILB8GRTj3Q==",
+  "dgSpecHash": "uQIMfLPV5gKAE/Gy78xE1pDElECtKNU1JzlCwdI4lSKIRO+qrGEOxOKq4KUtt5Xl/zGog6hTHBZD+ZVqrqGyJQ==",
   "success": true,
   "projectFilePath": "E:\\Code Louisville\\TrackSongProgress\\TrackSongProgress\\TrackSongProgress\\TrackSongProgress.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\perfi\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
     "C:\\Users\\perfi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
     "C:\\Users\\perfi\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.3\\microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",
+    "C:\\Users\\perfi\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\6.0.3\\microsoft.entityframeworkcore.inmemory.6.0.3.nupkg.sha512",
     "C:\\Users\\perfi\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\perfi\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\perfi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
